@@ -1,0 +1,41 @@
+Software Requirement:
+Features:
+	-This web application allows our users to login our home automation system software
+		a. If user has no account, user can sign up. 
+b. Our web application verify username and password. If values are correct, it allows to log in.
+		c. If values are not correct, it returns error massage.
+		d. If user has forgetten their password, user can reset his/her password.
+-This web application allows to add other rooms and floors, if home has more than one floor.
+-This web application allows to add or remove different devices to control via app.
+-This web application allows to turn on or off devices.
+-This web application allows to change some specific features, if device has (like adjusting heat of air conditioner or changing channels on TV) 
+
+Supported Devices and Properties:
+-TV:
+*Turning on and off TV.
+*Changing channels
+*Playing music via supported apps(Spotify, Apple Music, Youtube Music.. )
+-Ceiling fan
+	*Turning on and off
+	*Adjusting speed
+-Air conditioner
+	*Turning on and off
+*Changing mods
+	*Adjusting temperature
+	*Changing fan speed
+-Window
+	*Turning on and off
+	*Position of window(half open, fully open)
+-Door
+	*Turning on and off
+	*Position of door(half open, fully open)
+-Ligths
+	*Turning on and off
+	*Changing colors 
+-Washing machine
+	*Switching between mods(cotton, silk)
+	*Adjusting temperature
+	*Start/Pause
+-Fridge
+	*Turning on and off
+*Adjusting temperature
